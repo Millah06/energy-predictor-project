@@ -1,0 +1,2 @@
+Model,MAE (kWh),RMSE (kWh),MAPE (%),R² Score
+RandomForest,0.167,0.229,14.24,0.983
