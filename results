@@ -1,0 +1,9 @@
+<script>start("c:\\Users\\HP\\PycharmProjects\\energy-predictor\\results\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("error_distribution.png","error_distribution.png",0,193740,"189 kB",1765274275,"12/9/25, 10:57:55 AM");</script>
+<script>addRow("feature_importance.png","feature_importance.png",0,294975,"288 kB",1765274274,"12/9/25, 10:57:54 AM");</script>
+<script>addRow("model_comparison.csv","model_comparison.csv",0,85,"85 B",1765386958,"12/10/25, 6:15:58 PM");</script>
+<script>addRow("model_comparison.png","model_comparison.png",0,248385,"243 kB",1765274275,"12/9/25, 10:57:55 AM");</script>
+<script>addRow("predictions_vs_actual.png","predictions_vs_actual.png",0,1096961,"1.0 MB",1765274272,"12/9/25, 10:57:52 AM");</script>
+<script>addRow("residual_analysis.png","residual_analysis.png",0,552415,"539 kB",1765274274,"12/9/25, 10:57:54 AM");</script>
+<script>addRow("scatter_plot.png","scatter_plot.png",0,908448,"887 kB",1765274273,"12/9/25, 10:57:53 AM");</script>
