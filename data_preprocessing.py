@@ -2,9 +2,9 @@
 Smart Energy Consumption Predictor
 File: data_preprocessing.py
 
-Purpose: Clean, validate, and preprocess raw energy data
-Author: ML Engineering Team
-Date: 2024-12-03
+Purpose: Generate realistic synthetic energy consumption data
+Author: Abdullahi Aliyu Garba
+Date: December 2025
 """
 
 import numpy as np

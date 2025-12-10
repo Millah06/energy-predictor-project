@@ -2,9 +2,9 @@
 Smart Energy Consumption Predictor
 File: feature_engineering.py
 
-Purpose: Create predictive features from time-series data
-Author: ML Engineering Team
-Date: 2024-12-03
+Purpose: Generate realistic synthetic energy consumption data
+Author: Abdullahi Aliyu Garba
+Date: December 2025
 """
 
 import numpy as np
